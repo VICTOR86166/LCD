@@ -1,0 +1,3 @@
+RD 接SDI  WR接SCL 
+CS接  Db8
+RS接RS
