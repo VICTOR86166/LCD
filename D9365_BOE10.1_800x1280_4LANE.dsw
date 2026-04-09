@@ -1,0 +1,30 @@
+<assembly name="Pattern9" value="09. [01s] G:\Picture\800_1280\565\5.jpg" />
+<assembly name="Pattern8" value="08. [01s] D:\TSG_YXC\文档\治具\测试冶具\图片\800X1280\R-C-03.jpg" />
+<assembly name="Pattern7" value="07. [01s] D:\TSG_YXC\文档\治具\测试冶具\图片\800X1280\R-C-03.jpg" />
+<assembly name="Pattern6" value="06. [01s] Black" />
+<assembly name="Pattern5" value="05. [01s] White" />
+<assembly name="Pattern4" value="04. [01s] Blue" />
+<assembly name="Pattern3" value="03. [01s] Green" />
+<assembly name="Pattern2" value="02. [01s] Red" />
+<assembly name="Pattern1" value="01. [01s] Text 0 0" />
+<assembly name="Pattern0" value="00. [01s] Frame edge" />
+<assembly name="POWER" value="010030000807000000823D00" />
+<assembly name="METER" value="0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" />
+<assembly name="SYNC" value="0" />
+<assembly name="TIME" value="0" />
+<assembly name="AUTO" value="0" />
+<assembly name="PLL" value="69" />
+<assembly name="CHIP" value="1" />
+<assembly name="PIXEL" value="5" />
+<assembly name="PCLK" value="7" />
+<assembly name="Pattern" value="8" />
+<assembly name="Vline" value="0" />
+<assembly name="Hpclk" value="0" />
+<assembly name="Vfp" value="6" />
+<assembly name="Vadr" value="1280" />
+<assembly name="Vbp" value="6" />
+<assembly name="Vsync" value="6" />
+<assembly name="Hfp" value="50" />
+<assembly name="Hadr" value="800" />
+<assembly name="Hbp" value="12" />
+<assembly name="Hsync" value="10" />
